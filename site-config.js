@@ -139,8 +139,8 @@ window.SITE_CONFIG = {
       mapLabel: "Open in Google Maps"
     },
     people: [
-      { name: "Rehan Hadi", role: "CEO and Director", phone: "0300 9211528", phoneLink: "+923009211528", email: "rehan@salspac.com" },
-      { name: "Syed Hussain Fatmi", role: "Director", phone: "0335 0024913", phoneLink: "+923350024913", email: "fatmi@salspac.com" }
+      { name: "Rehan Hadi", role: "CEO and Director", phone: "0300 9211528", phoneLink: "+923009211528", email: "rehan@salspac1.com" },
+      { name: "Syed Hussain Fatmi", role: "Director", phone: "0335 0024913", phoneLink: "+923350024913", email: "fatmi@salspac1.com" }
     ]
   },
   footerNotice: "This website is for general information only. It is not an offer to sell, or a solicitation of an offer to buy, any securities. Any offering will be made only through a prospectus approved by the SECP and PSX."
