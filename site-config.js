@@ -37,7 +37,7 @@ window.SITE_CONFIG = {
   about: {
     title: "About the company",
     paragraphs: [
-      "A SPAC is a public company with no business operations of its own. It lists on the Pakistan Stock Exchange, raises money through an IPO, and then uses that money to merge with or acquire an operating private company within a fixed deadline.",
+      "A SPAC is a public company with no business operations of its own. It lists on the Pakistan Stock Exchange, raises money through an IPO, and then uses that money to merge with or acquire an operating private company within 36 months.",
       "SPACs are regulated by the Securities and Exchange Commission of Pakistan under its Public Offering Regulations. The structure is new to Pakistan's market and has a lot of room to grow."
     ],
     facts: [
@@ -65,7 +65,7 @@ window.SITE_CONFIG = {
       details: [
         { lead: "Protected funds.", text: "At least 90% of IPO money goes straight into a secured escrow account." },
         { lead: "Small operating budget.", text: "No more than 10% is used to run the company and search for targets." },
-        { lead: "Firm deadline.", text: "Sponsors usually have 18 to 24 months to complete a merger." },
+        { lead: "Firm deadline.", text: "Sponsors have 36 months to complete a merger." },
         { lead: "Money back if nothing happens.", text: "If no deal is made, the SPAC is dissolved and the cash is returned." }
       ]
     },
@@ -101,7 +101,7 @@ window.SITE_CONFIG = {
       },
       {
         id: "spn", label: "Sponsors", items: [
-          { title: "Founder shares", description: "Promoters usually keep a meaningful equity stake for a nominal amount of capital." },
+          { title: "Founder shares", description: "Operational control within the 36-month PSX window. Co-invest and capture value appreciation via founder/sponsor equity. Use up to 10% of IPO proceeds for target search and operational costs." },
           { title: "Flexible sourcing", description: "Sponsors can look for the right target after the money is raised." },
           { title: "Less market risk", description: "Public funding is locked in upfront, so there's no scramble for capital at deal time." },
           { title: "Built on expertise", description: "The team's corporate management experience is what drives returns." }
